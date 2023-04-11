@@ -1,0 +1,31 @@
+##mmMUDIŁĄblyediSC8
+D8_NAYM=\
+'EXAMPLE GAME'
+
+D8_SHDC=\
+"Quick rundaun of what your game is about"
+
+D8_ORGY=\
+'YOUR ORGANS NIGGA.jkjk. gamedev ORGANisation.'
+
+D8_DAUN=\
+'http://example.org'
+
+D8_VERS=\
+'1.0.0'
+
+D8_LOGO=\
+$(cat << \EOF
+   _,' ,  '
+  /__\   'q '
+ \|  |/   l, ,
+-(X)(X)-   O  '
+ /|\/|\ _,dXXb-
+EOF
+)
+
+D8_DESC=\
+$(cat << \EOF
+Heres a LONG(like my DICK nigga) description of your game, add maybe controls here if your game doesnt have a tutorial,etc,etc,etc
+EOF
+)
