@@ -1,0 +1,10 @@
+[1mDefault Cocketbound server aboutme
+	[44;33mParagravv1[0m
+[1;31mGROUPNAME[0m is a gamedev group. we make games. you suck us. simpleas!
+	[44;33mCOCKETBOUND.[0m
+You can use this repo to set up a cocket instance LOCALLY. for your own hruppa!
+there are MUCH better publishing methods but this ones spezyal. CKT wuz made
+w/LOVE nigga! feelfree to deploy!;)
+[1;33msome sidenote text.[0m
+[42;33m*[0m [41;30msuck me OFF baby[0m
+	truly yeah..now would you dare? ;)
