@@ -14,7 +14,7 @@ Clone this repo and rename `server/` to `/var/where/your/http/root/is/.ckt/`, do
 
 Maybe to keep up to date to newest&greatest cocket functions you can set up a script that changes our site into yours in them, else feel free to patch onto this GHETTOWARE.
 
-Maybe upload some here because its VERY lacking right neow. have with with CKT! ;)
+Maybe upload some edits here because its VERY lacking right neow. have fun wit CKT! ;)
 
 # MADE BY 1&ONLY ФПЛR & LATVIAN DOG. SUKITOVV.
 ```
