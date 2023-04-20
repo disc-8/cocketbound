@@ -1,1 +1,4 @@
 this is incomplete,will add everything later
+
+* everytime you add a new package,run
+ bash gen-list.sh > list.txt
